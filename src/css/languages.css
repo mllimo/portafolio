@@ -1,0 +1,23 @@
+.dot-javascript {
+  color:#f1e05a;
+}
+
+.dot-css {
+  color:#563d7c;
+}
+
+.dot-cpp {
+  color:#f34b7d;
+}
+
+.dot-html {
+  color: #e34c26;
+}
+
+.dot-experience {
+  color: #097756;
+}
+
+.dot-cpp, .dot-css, .dot-html, .dot-javascript, .dot-experience {
+  padding-right: 0.5em;
+}

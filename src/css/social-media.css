@@ -1,0 +1,30 @@
+.email {
+  content: url("../assets/email-icon.svg");
+}
+
+.twitter {
+  content: url("../assets/twitter-icon.svg");
+}
+
+.ig {
+  content: url("../assets/ig-icon.svg");
+}
+
+.linkedin {
+  content: url("../assets/linkedin-icon.svg");
+}
+
+.github {
+  content: url("../assets/github-icon.svg");
+}
+
+.footer-icon,
+.email,
+.twitter,
+.ig,
+.linkedin,
+.github {
+  height: 1.85em;
+  width: 1.85em;
+  margin: 0.85em;
+}

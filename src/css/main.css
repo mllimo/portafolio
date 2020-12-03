@@ -1,0 +1,79 @@
+.white-font {
+  color: white;
+}
+
+.yellow-font {
+  color: yellow;
+}
+
+.bg-black {
+  background-color: #16111c;
+  color: #c9b2d0;
+}
+
+.bg-darkness {
+  background-color: #5691c2a1;
+  color: rgb(231, 231, 231);
+}
+
+.bg-alpha {
+  background: -webkit-gradient(linear, left top, left bottom, from(#000), to(transparent));
+  background: linear-gradient(#000, transparent);
+  color: #fff;
+}
+
+.justify-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.particle-background {
+  background-color: #16111c;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.carousel-item-size {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+hr.yellow-continous {
+  border-top: 3px solid yellow;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.full-size-absolute {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  background: -webkit-gradient(linear, left top, left bottom, from(#000), to(transparent));
+  background: linear-gradient(#000, transparent);
+  color: #fff;
+  width: 100%;
+  height: 4.37em;
+}
+
+p.font-medium-size {
+  font-size: 1.3em;
+}
+
+.strong-font {
+  font-weight: bold;
+}
+
+.logo-size {
+  width: 3em;
+  height: 3em;
+}

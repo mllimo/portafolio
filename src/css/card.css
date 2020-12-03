@@ -1,0 +1,9 @@
+.card-image-size {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-min-size {
+  min-height: 300px;
+}
