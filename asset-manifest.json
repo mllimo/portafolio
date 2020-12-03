@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2203d98.chunk.css",
+    "main.js": "/static/js/main.50d4cfbb.chunk.js",
+    "main.js.map": "/static/js/main.50d4cfbb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7e76581.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7e76581.js.map",
+    "static/css/2.74effc2a.chunk.css": "/static/css/2.74effc2a.chunk.css",
+    "static/js/2.45c80bb9.chunk.js": "/static/js/2.45c80bb9.chunk.js",
+    "static/js/2.45c80bb9.chunk.js.map": "/static/js/2.45c80bb9.chunk.js.map",
+    "static/js/3.b1d08236.chunk.js": "/static/js/3.b1d08236.chunk.js",
+    "static/js/3.b1d08236.chunk.js.map": "/static/js/3.b1d08236.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.74effc2a.chunk.css.map": "/static/css/2.74effc2a.chunk.css.map",
+    "static/css/main.b2203d98.chunk.css.map": "/static/css/main.b2203d98.chunk.css.map",
+    "static/js/2.45c80bb9.chunk.js.LICENSE.txt": "/static/js/2.45c80bb9.chunk.js.LICENSE.txt",
+    "static/media/social-media.css": "/static/media/twitter-icon.51480627.svg",
+    "static/media/game-of-life.37c3c531.png": "/static/media/game-of-life.37c3c531.png",
+    "static/media/hand-tracking.37d9b25f.png": "/static/media/hand-tracking.37d9b25f.png",
+    "static/media/logo.c8f41204.png": "/static/media/logo.c8f41204.png",
+    "static/media/n-queens.bd2d9a91.png": "/static/media/n-queens.bd2d9a91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e76581.js",
+    "static/css/2.74effc2a.chunk.css",
+    "static/js/2.45c80bb9.chunk.js",
+    "static/css/main.b2203d98.chunk.css",
+    "static/js/main.50d4cfbb.chunk.js"
+  ]
+}
