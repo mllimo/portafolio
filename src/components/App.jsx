@@ -17,6 +17,7 @@ import "bootstrap/dist/js/bootstrap.js";
 import GameOfLifeImg from "../assets/game-of-life.png";
 import HandTrackingImg from "../assets/hand-tracking.png";
 import NqueensImg from "../assets/n-queens.png";
+import PortafolioImg from "../assets/react-portafolio.png";
 import Logo from "../assets/logo.png";
 import CppLogo from "../assets/c++.png";
 import JavascriptLogo from "../assets/javascript.png";
@@ -117,6 +118,23 @@ function App() {
                 </CardProject>
               </div>
             </div>
+
+            <div className="row">
+              <div className="col-xl-4"></div>
+
+              <div className="col-xl-4">
+              <CardProject
+                  title="Portafolio react"
+                  img={PortafolioImg}
+                  url="https://github.com/mllimo/portafolio"
+                  text="This page made up with reactjs."
+                  languages={["javascript", "html", "css"]}>
+                </CardProject>
+              </div>
+
+              <div className="col-xl-4"></div>
+            </div>
+
             <br></br>
             <br></br>
             <br></br>
