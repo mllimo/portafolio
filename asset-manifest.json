@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.7b40b17a.chunk.css",
-    "main.js": "/portafolio/static/js/main.03df0712.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.03df0712.chunk.js.map",
+    "main.js": "/portafolio/static/js/main.4eb53f7e.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.4eb53f7e.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.922d9aee.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.922d9aee.js.map",
     "static/css/2.74effc2a.chunk.css": "/portafolio/static/css/2.74effc2a.chunk.css",
@@ -18,13 +18,14 @@
     "static/media/game-of-life.37c3c531.png": "/portafolio/static/media/game-of-life.37c3c531.png",
     "static/media/hand-tracking.37d9b25f.png": "/portafolio/static/media/hand-tracking.37d9b25f.png",
     "static/media/logo.c8f41204.png": "/portafolio/static/media/logo.c8f41204.png",
-    "static/media/n-queens.bd2d9a91.png": "/portafolio/static/media/n-queens.bd2d9a91.png"
+    "static/media/n-queens.bd2d9a91.png": "/portafolio/static/media/n-queens.bd2d9a91.png",
+    "static/media/react-portafolio.22d33c1e.png": "/portafolio/static/media/react-portafolio.22d33c1e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.922d9aee.js",
     "static/css/2.74effc2a.chunk.css",
     "static/js/2.45c80bb9.chunk.js",
     "static/css/main.7b40b17a.chunk.css",
-    "static/js/main.03df0712.chunk.js"
+    "static/js/main.4eb53f7e.chunk.js"
   ]
 }
